@@ -1,0 +1,69 @@
+product_id,category,product_name,price,volume_ml
+1,Artificial molecules,HYDRATROPIC ALDEHYDE DIMETHYL ACETAL,425,5
+2,Artificial molecules,VETIKON,425,5
+3,Artificial molecules,CASSIFFIX,495,2.5
+4,Artificial molecules,APPLE OLIFFAC 0407 (IFF),395,5
+5,Artificial molecules,CARAMEL ACETATE 600104 (SYMRISE),450,2.5
+6,Artificial molecules,WHITE OAK 1194 BASE PFW,385,2.5
+7,Artificial molecules,ICE 7833 BASE PFW,450,2.5
+8,Artificial molecules,GRAPE 9097 BASE PFW,325,2.5
+9,Artificial molecules,VANILLA 0849 BASE (PFW),395,2.5
+10,Artificial molecules,HELIOTROPE 9081 BASE PFW,395,2.5
+11,Artificial molecules,ETHYL CAPROATE NATURAL (VIGON),195,5
+12,Artificial molecules,OCIMENE TOCO (IFF),595,2.5
+13,Artificial molecules,FIG BASE (KAE),365,2.5
+14,Artificial molecules,STRAWBERRY 0910 BASE PFW,450,2.5
+15,Artificial molecules,MANGO 1090 BASE PFW,395,2.5
+16,Artificial molecules,TRIMOFIX (IFF),425,2.5
+17,Artificial molecules,VEROTYL (PFW),585,5
+18,Artificial molecules,CYCLAMEN ALDEHYDE,295,5
+19,Artificial molecules,ALLYL CAPROATE (SYMRISE),375,2.5
+20,Artificial molecules,JASMIN 231 SA (FIRMENICH),635,2.5
+21,Artificial molecules,IRIS 0918 BASE PFW,375,2.5
+22,Artificial molecules,ACACIA 0838 BASE PFW,395,2.5
+23,Artificial molecules,BLACK PEPPER 9677 BASE (PFW),695,2.5
+24,Artificial molecules,AQUAFLORA (IFF),545,2.5
+25,Artificial molecules,CASSIS GIVCO 149 (GIVAUDAN),965,2.5
+26,Artificial molecules,APPLETEEN (IFF),195,5
+27,Artificial molecules,TERRANOL 600035 (SYMRISE),495,2.5
+28,Artificial molecules,CIS-3-HEXENYL SALICYLATE (IFF) ,295,2.5
+29,Artificial molecules,ACALEA TT (IFF) AKA MIMOSA HEPTANAL,385,2.5
+30,Artificial molecules,THIOXANE BASE 38375 D (FIRMENICH),375,2.5
+31,Artificial molecules,CANTRYL 100205 (SYMRISE),350,2.5
+32,Artificial molecules,CITROLATE (IFF),450,5
+33,Artificial molecules,EXALTOLIDE TOTAL (FIRMENICH),495,5
+34,Artificial molecules,HYDROXYCITRONELLAL,295,5
+35,Artificial molecules,BOURGEONAL (GIVAUDAN),325,2.5
+36,Artificial molecules,MOUSSE ARBRE FIRBEST 50 TEC 942626 (FIRMENICH),750,2
+37,Artificial molecules,HEDIONE HC (FIRMENICH),750,5
+38,Artificial molecules,PEONILE (GIVAUDAN),195,5
+39,Artificial molecules,EXALTONE 942000 (FIRMENICH),520,2
+40,Artificial molecules,HELIONAL (IFF),475,5
+41,Artificial molecules,PRE CYCLEMONE B (IFF),365,2.5
+42,Artificial molecules,PEAR BASE KAE,385,2.5
+43,Artificial molecules,LINDENBLOSSOM GIVCO (GIVAUDAN),550,2.5
+44,Artificial molecules,SAUVIGNONE 100,520,2
+45,Artificial molecules,TRANS-2-NONENAL (NATURAL),525,2.5
+46,Artificial molecules,COSMONE (GIVAUDAN),695,1
+47,Artificial molecules,CYCLEMAX (IFF) ,595,5
+48,Artificial molecules,OZOFLEUR ( IFF),595,5
+49,Absolute,OSMANTHUS ABSOLUTE 20%,1980,2
+50,Absolute,FIR ABSOLUTE (BIOLANDES) 50%,795,2
+51,Absolute,NEROLI ABSOLUTE 20% (ORANGE FLOWER BITTER),2450,2
+52,Absolute,FRANGIPANI (PLUMERIA ALBA) ABSOLUTE 50%,1495,1
+53,Absolute,BITTER YUZU ABS. 20% (JAPAN),575,2.5
+54,Absolute,CASSIS BOURGEON ABSOLUTE 30% (IFF),975,2
+55,Absolute,HELICHRYSUM (IMMORTELLE) ITALICUM ABSOLUTE FRANCE 50%,795,2
+56,Absolute,ROSE ABS. 181128 BULGARIE (IFF),1995,1
+57,Absolute,TOBACCO BLOND ABSOLUTE 50% (NICOTINE FREE),695,1
+58,Essential oil,YLANG YLANG EXTRA EO (MADAGASCAR),685,2.5
+59,Essential oil,CLARY SAGE EO FRANCE,595,2.5
+60,Essential oil,BUDDHAWOOD EO (AUSTRALIA),995,2.5
+61,Essential oil,MAGNOLIA FLOWER EO FRANCE,995,1
+62,Essential oil,ROSE DAMASCENA EO (BULGARIE),2985,1
+63,Essential oil,CYPRES EO,275,2.5
+64,Essential oil,MASTIC EO,475,1
+65,Essential oil,SANDALWOOD MYSORE ORGANIC EO (INDIA),2495,1
+66,Essential oil,BERGAMOT ITALY EO ,375,5
+67,Essential oil,WHITE GRAPEFRUIT USA EO,495,5
+68,Essential oil,SWEET ORANGE EO (FLORIDA),250,5

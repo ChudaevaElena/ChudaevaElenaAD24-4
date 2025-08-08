@@ -1,0 +1,101 @@
+order_id,city,product,quantity,price,order_date,total
+1,Moscow,Laptop,3,21049,2023-02-27,63147
+2,Saint Petersburg,Laptop,5,10697,2023-06-01,53485
+3,Novosibirsk,Laptop,1,11140,2023-02-25,11140
+4,Saint Petersburg,Monitor,5,6739,2023-05-24,33695
+5,Saint Petersburg,Monitor,4,19446,2023-04-25,77784
+6,Yekaterinburg,Tablet,1,15463,2023-06-28,15463
+7,Novosibirsk,Tablet,3,15189,2023-02-25,45567
+8,Kazan,Laptop,1,29898,2023-01-25,29898
+9,Kazan,Tablet,5,22335,2023-01-12,111675
+10,Novosibirsk,Monitor,1,29807,2023-01-21,29807
+11,Yekaterinburg,Tablet,5,28700,2023-05-28,143500
+12,Saint Petersburg,Laptop,1,48336,2023-02-28,48336
+13,Kazan,Laptop,2,11619,2023-04-08,23238
+14,Kazan,Headphones,3,15659,2023-04-05,46977
+15,Kazan,Smartphone,3,49796,2023-06-15,149388
+16,Moscow,Monitor,2,40005,2023-03-04,80010
+17,Saint Petersburg,Headphones,4,22691,2023-06-13,90764
+18,Yekaterinburg,Smartphone,3,8665,2023-02-28,25995
+19,Moscow,Tablet,4,22546,2023-01-17,90184
+20,Saint Petersburg,Monitor,3,18934,2023-06-17,56802
+21,Novosibirsk,Headphones,4,14363,2023-03-09,57452
+22,Saint Petersburg,Smartphone,5,40322,2023-03-09,201610
+23,Yekaterinburg,Headphones,5,31175,2023-04-03,155875
+24,Saint Petersburg,Smartphone,5,37343,2023-01-24,186715
+25,Moscow,Laptop,2,46120,2023-02-10,92240
+26,Novosibirsk,Monitor,1,30216,2023-04-08,30216
+27,Yekaterinburg,Headphones,5,21476,2023-05-22,107380
+28,Moscow,Laptop,5,22486,2023-06-14,112430
+29,Kazan,Laptop,3,33492,2023-02-10,100476
+30,Novosibirsk,Laptop,3,37806,2023-02-15,113418
+31,Yekaterinburg,Laptop,3,46874,2023-05-10,140622
+32,Yekaterinburg,Smartphone,2,29504,2023-02-11,59008
+33,Yekaterinburg,Monitor,1,44252,2023-03-24,44252
+34,Novosibirsk,Laptop,1,28788,2023-03-20,28788
+35,Saint Petersburg,Laptop,2,42182,2023-01-21,84364
+36,Moscow,Headphones,1,39911,2023-02-02,39911
+37,Saint Petersburg,Headphones,5,15821,2023-03-09,79105
+38,Yekaterinburg,Monitor,4,18880,2023-05-19,75520
+39,Saint Petersburg,Tablet,4,49019,2023-06-16,196076
+40,Kazan,Headphones,5,34588,2023-01-31,172940
+41,Saint Petersburg,Smartphone,1,27156,2023-01-06,27156
+42,Yekaterinburg,Monitor,2,43564,2023-02-26,87128
+43,Moscow,Laptop,1,20003,2023-01-18,20003
+44,Moscow,Tablet,1,38695,2023-03-02,38695
+45,Kazan,Headphones,2,40339,2023-02-03,80678
+46,Yekaterinburg,Monitor,4,20925,2023-05-02,83700
+47,Novosibirsk,Smartphone,1,11352,2023-06-18,11352
+48,Novosibirsk,Tablet,4,31941,2023-04-30,127764
+49,Moscow,Laptop,1,31386,2023-03-28,31386
+50,Moscow,Smartphone,2,17465,2023-05-18,34930
+51,Novosibirsk,Smartphone,4,17025,2023-03-13,68100
+52,Novosibirsk,Smartphone,1,34041,2023-05-21,34041
+53,Moscow,Laptop,5,5967,2023-01-24,29835
+54,Saint Petersburg,Smartphone,4,36826,2023-05-04,147304
+55,Saint Petersburg,Headphones,1,15789,2023-04-08,15789
+56,Moscow,Headphones,3,34819,2023-03-15,104457
+57,Novosibirsk,Monitor,4,15144,2023-02-18,60576
+58,Kazan,Smartphone,1,42957,2023-05-19,42957
+59,Moscow,Tablet,1,8286,2023-05-30,8286
+60,Novosibirsk,Monitor,5,15317,2023-01-15,76585
+61,Yekaterinburg,Laptop,2,9490,2023-06-02,18980
+62,Moscow,Smartphone,4,12856,2023-05-26,51424
+63,Saint Petersburg,Monitor,5,7604,2023-06-08,38020
+64,Moscow,Headphones,5,42042,2023-05-14,210210
+65,Kazan,Tablet,2,48891,2023-03-22,97782
+66,Saint Petersburg,Tablet,4,13577,2023-06-21,54308
+67,Kazan,Headphones,3,9754,2023-01-03,29262
+68,Novosibirsk,Monitor,5,11552,2023-01-19,57760
+69,Yekaterinburg,Smartphone,5,22380,2023-02-03,111900
+70,Kazan,Laptop,2,29217,2023-03-14,58434
+71,Saint Petersburg,Headphones,5,24825,2023-06-06,124125
+72,Yekaterinburg,Laptop,5,24620,2023-06-19,123100
+73,Moscow,Smartphone,3,12564,2023-01-28,37692
+74,Yekaterinburg,Smartphone,3,23465,2023-06-04,70395
+75,Saint Petersburg,Tablet,2,46565,2023-03-09,93130
+76,Yekaterinburg,Headphones,3,8329,2023-01-24,24987
+77,Novosibirsk,Tablet,1,5232,2023-03-27,5232
+78,Saint Petersburg,Tablet,2,33956,2023-05-22,67912
+79,Novosibirsk,Monitor,1,12331,2023-01-20,12331
+80,Saint Petersburg,Monitor,1,29196,2023-05-30,29196
+81,Yekaterinburg,Smartphone,4,13352,2023-01-11,53408
+82,Kazan,Tablet,1,28449,2023-02-23,28449
+83,Saint Petersburg,Laptop,3,41692,2023-04-15,125076
+84,Yekaterinburg,Smartphone,2,15649,2023-02-15,31298
+85,Novosibirsk,Laptop,2,26770,2023-04-16,53540
+86,Saint Petersburg,Tablet,2,12084,2023-04-08,24168
+87,Moscow,Headphones,2,18079,2023-04-28,36158
+88,Kazan,Tablet,2,19609,2023-01-07,39218
+89,Saint Petersburg,Headphones,3,23258,2023-01-18,69774
+90,Kazan,Tablet,5,31193,2023-06-23,155965
+91,Yekaterinburg,Tablet,1,12559,2023-03-08,12559
+92,Saint Petersburg,Monitor,3,7507,2023-01-28,22521
+93,Yekaterinburg,Headphones,3,25557,2023-04-22,76671
+94,Yekaterinburg,Monitor,1,30244,2023-05-28,30244
+95,Saint Petersburg,Tablet,1,33577,2023-01-01,33577
+96,Yekaterinburg,Monitor,2,28869,2023-04-21,57738
+97,Moscow,Tablet,5,25572,2023-06-19,127860
+98,Moscow,Tablet,5,25269,2023-06-20,126345
+99,Novosibirsk,Tablet,4,24376,2023-05-22,97504
+100,Saint Petersburg,Smartphone,4,48576,2023-04-08,194304

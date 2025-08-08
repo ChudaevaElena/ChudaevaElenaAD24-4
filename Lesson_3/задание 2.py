@@ -1,0 +1,40 @@
+import pandas as pd
+from pathlib import Path
+
+current_dir = Path(__file__).parent
+
+orders_path = current_dir.parent / "All_Files" / "orders.csv"
+contacts_path = current_dir.parent / "All_Files" / "contacts.csv"
+customers_path = current_dir.parent / "All_Files" / "customers.csv"
+
+orders = pd.read_csv(orders_path)
+contacts = pd.read_csv(contacts_path)
+customers = pd.read_csv(customers_path)
+
+merged = customers.merge(
+    contacts, 
+    left_on='contact_information', 
+    right_on='customer_id',
+    suffixes=('_cust', '_cont')
+)
+
+full_data = orders.merge(
+    merged,
+    left_on='customer_id',
+    right_on='customer_id_cust'
+)
+
+full_data['order_date'] = full_data['order_date'].str.strip()
+full_data['order_date'] = pd.to_datetime(full_data['order_date'], format='%Y-%m-%d %H:%M:%S', errors='coerce')
+full_data['registration_date'] = pd.to_datetime(full_data['registration_date'].str.strip(), format='%Y-%m-%d', errors='coerce')
+
+filtered2 = full_data.query(
+    "registration_date >= '2022-01-01' and "
+    "order_date >= '2023-01-01' and "
+    "order_date <= '2023-12-31' and "
+    "total > 30000"
+)
+result2 = filtered2[['first_name', 'last_name', 'total']]
+sales_count = len(filtered2)
+print(result2)
+print(f"\nКоличество продаж: {sales_count}")

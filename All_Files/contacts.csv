@@ -1,0 +1,89 @@
+customer_id,country,city,address,phone,email
+1,Argentina,Buenos Aires,Cerrito 333,(1) 135-5555,patriciosimpson@gmail.com
+2,Argentina,Buenos Aires,Ing. Gustavo Moncada 8585 Piso 20-A,(1) 135-5333,yvonnemoncada@gmail.com
+3,Argentina,Buenos Aires,Av. del Libertador 900,(1) 123-5555,sergiogutierrez@yahoo.com
+4,Brazil,Sao Paulo,"Av. dos Lusíadas, 23",(11) 555-7647,pedroafonso@gmail.com
+5,Brazil,Sao Paulo,"Rua Orós, 92",(11) 555-9857,ariacruz@yahoo.com
+6,Brazil,Campinas,"Av. Brasil, 442",(11) 555-9482,andrefonseca@gmail.com
+7,Brazil,Rio de Janeiro,"Rua do Paço, 67",(21) 555-0091,mariopontes@gmail.com
+8,Brazil,Rio de Janeiro,"Rua da Panificadora, 12",(21) 555-4252,bernardobatista@yahoo.com
+9,Brazil,Sao Paulo,"Alameda dos Canàrios, 891",(11) 555-1189,luciacarvalho@yahoo.com
+10,Brazil,Rio de Janeiro,"Av. Copacabana, 267",(21) 555-3412,janetelimeira@earthlink.com
+11,Canada,Tsawassen,23 Tsawassen Blvd.,(604) 555-4729,elizabethlincoln@gmail.com
+12,Canada,Vancouver,1900 Oak St.,(604) 555-3392,yoshitannamuri@gmail.com
+13,Canada,Montréal,43 rue St. Laurent,(514) 555-8054,jeanfresniere@gmail.com
+14,Mexico,México D.F.,Avda. de la Constitución 2222,(5) 555-4729,anatrujillo@gmail.com
+15,Mexico,México D.F.,Mataderos 2312,(5) 555-3932,antoniomoreno@gmail.com
+16,Mexico,México D.F.,Sierras de Granada 9993,(5) 555-3392,franciscochang@earthlink.com
+17,Mexico,México D.F.,Calle Dr. Jorge Cash 321,(5) 552-3745,guillermofernandez@earthlink.com
+18,Italy,Torino,Via Monte Bianco 34,011-4988260,paoloaccorti@outlook.com
+19,Italy,Bergamo,Via Ludovico il Moro 22,035-640230,giovannirovelli@outlook.com
+20,Italy,Reggio Emilia,Strada Provinciale 124,0522-556721,mauriziomoroni@gmail.com
+21,Spain,Madrid,"C/ Araquil, 67",(91) 555 22 82,martinsommer@gmail.com
+22,Spain,Madrid,"C/ Moralzarzal, 86",(91) 555 94 44,diegoroel@outlook.com
+23,Spain,Barcelona,"Rambla de Cataluña, 23",(93) 203 4560,eduardosaavedra@gmail.com
+24,Spain,Sevilla,"C/ Romero, 33",(95) 555 82 82,josefreyre@outlook.com
+25,Spain,Madrid,"Gran Vía, 1",(91) 745 6200,alejandracamino@yahoo.com
+26,UK,London,120 Hanover Sq.,(171) 555-7788,thomashardy@outlook.com
+27,UK,London,Fauntleroy Circus,(171) 555-1212,victoriaashworth@outlook.com
+28,UK,London,Berkeley Gardens 12 Brewery,(171) 555-2282,elizabethbrown@gmail.com
+29,UK,London,35 King George,(171) 555-0297,anndevon@gmail.com
+30,UK,Cowes,Garden House Crowther Way,(198) 555-8888,helenbennett@gmail.com
+31,UK,London,South House 300 Queensbridge,(171) 555-7733,simoncrowther@yahoo.com
+32,UK,London,90 Wadhurst Rd.,(171) 555-1717,harikumar@gmail.com
+33,France,Strasbourg,"24, place Kléber",88.60.15.31,frederiqueciteaux@gmail.com
+34,France,Marseille,"12, rue des Bouchers",91.24.45.40,laurencelebihan@gmail.com
+35,France,Nantes,"67, rue des Cinquante Otages",40.67.88.88,janinelabrune@yahoo.com
+36,France,Lille,"184, chaussée de Tournai",20.16.10.16,martinerance@gmail.com
+37,France,Nantes,"54, rue Royale",40.32.21.21,carineschmitt@yahoo.com
+38,France,Versailles,"67, avenue de l'Europe",30.59.84.10,danieltonini@gmail.com
+39,France,Toulouse,1 rue Alsace-Lorraine,61.77.61.10,annetteroulet@earthlink.com
+40,France,Paris,"265, boulevard Charonne",(1) 42.34.22.66,mariebertrand@earthlink.com
+41,France,Paris,"25, rue Lauriston",(1) 47.55.60.10,dominiqueperrier@yahoo.com
+42,France,Lyon,"2, rue du Commerce",78.32.54.86,marysaveley@earthlink.com
+43,France,Reims,59 rue de l'Abbaye,26.47.15.10,paulhenriot@gmail.com
+44,Germany,Berlin,Obere Str. 57,030-0074321,mariaanders@gmail.com
+45,Germany,Mannheim,Forsterstr. 57,0621-08460,hannamoos@gmail.com
+46,Germany,Aachen,Walserweg 21,0241-039123,svenottlieb@gmail.com
+47,Germany,München,Berliner Platz 43,089-0877310,peterfranken@yahoo.com
+48,Germany,Brandenburg,Maubelstr. 90,0555-09876,philipcramer@gmail.com
+49,Germany,Frankfurt a.M.,Magazinweg 7,069-0245984,renatemessner@yahoo.com
+50,Germany,Leipzig,Heerstr. 22,0342-023176,alexanderfeuer@gmail.com
+51,Germany,Köln,Mehrheimerstr. 369,0221-0644327,henriettepfalzheim@gmail.com
+52,Germany,Cunewalde,Taucherstraße 10,0372-035188,horstkloss@gmail.com
+53,Germany,Münster,Luisenstr. 48,0251-031259,karinjosephs@gmail.com
+54,Germany,Stuttgart,Adenauerallee 900,0711-020361,ritamuller@yahoo.com
+55,USA,Eugene,2732 Baker Blvd.,(503) 555-7555,howardsnyder@gmail.com
+56,USA,Elgin,City Center Plaza 516 Main St.,(503) 555-6874,yoshilatimer@gmail.com
+57,USA,Walla Walla,12 Orchestra Terrace,(509) 555-7969,johnsteel@gmail.com
+58,USA,San Francisco,87 Polk St. Suite 5,(415) 555-5938,jaimeyorres@gmail.com
+59,USA,Portland,89 Chiaroscuro Rd.,(503) 555-9573,franwilson@gmail.com
+60,USA,Anchorage,2743 Bering St.,(907) 555-7584,renephillips@gmail.com
+61,USA,Albuquerque,2817 Milton Dr.,(505) 555-5939,paulawilson@gmail.com
+62,USA,Boise,187 Suffolk Ln.,(208) 555-8097,josepavarotti@gmail.com
+63,USA,Lander,P.O. Box 555,(307) 555-4680,artbraunschweiger@earthlink.com
+64,USA,Portland,89 Jefferson Way Suite 2,(503) 555-3612,liznixon@gmail.com
+65,USA,Butte,55 Grizzly Peak Rd.,(406) 555-5834,liuwong@gmail.com
+66,USA,Kirkland,722 DaVinci Blvd.,(206) 555-8257,helvetiusnagy@gmail.com
+67,USA,Seattle,305 - 14th Ave. S. Suite 3B,(206) 555-4112,karljablonski@gmail.com
+68,Russia,Moscow,"st. Lenina 12, no. 40",79153665684,yromanenko@yandex.ru
+69,Russia,Moscow,st. Pushkinsky Boulevard 20a,79035770250,fmosin@mail.ru
+70,Russia,Moscow,st. Bunin Alley 17 kv.35,79888331036,gomonovas@yandex.ru
+71,Russia,Moscow,"Prospekt Mira 10, apt. 3",79029860559,barchuks@yandex.ru
+72,Russia,Saint Petersburg,Peter the Great Street 9,79123471955,polinam@mail.ru
+73,Russia,Saint Petersburg,St. Lenina 14,79854362277,ppetrova@yandex.ru
+74,Russia,Moscow,"St. Gagarina 19, building 2, apt. 507",79229216488,kasheva_n@mail.ru
+75,Russia,Ekaterinburg,St. Moroznaya 14,79881582261,anin.m@yandex.ru
+76,Russia,Ekaterinburg,"Pushkina street 14, apt. 19",79851516134,bolotova_ira@yandex.ru
+77,Russia,Ekaterinburg,Mira Avenue 25,79991382998,i.komarov@mail.ru
+78,Russia,Moscow,"Vernadskogo Avenue 17, apt. 506",79108644030,e.varova@yandex.ru
+79,Russia,Moscow,"Pushkina street 41, apt. 400",79196154552,e.voronov@yandex.ru
+80,Russia,Moscow,Baseinaya Street 19,79157758973,d.butylin@mail.ru
+81,Russia,Moscow,"St. Vodny stadium 15, building 4, apt. 20",79229376544,d.fedorov@yandex.ru
+82,Russia,Moscow,Chistoprudnensky Boulevard 4d,79282319287,d_privalova2000@gmail.com
+83,Russia,Moscow,"St. Profsoyuznaya 83, building 2",79159566196,virillova-20-20@mail.ru
+84,Russia,Saint Petersburg,St. Ozernaya 6,79876655320,a.kamchatkina@yandex.ru
+85,Russia,Saint Petersburg,"St. Pobeda 19, apt. 92",79854280929,lobovaaaa@yandex.ru
+86,Russia,Saint Petersburg,St. Pobeda 106,79275697828,khrushchev99@mail.ru
+87,Russia,Saint Petersburg,"St. Yesenina 17, apt. 29",79175199721,solntsevzenite@yandex.ru
+88,Russia,Moscow,"St. Profsoyuznaya 97, building 1, apt. 49",79269565379,morevsky_r@mail.ru
